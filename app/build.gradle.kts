@@ -109,6 +109,7 @@ dependencies {
     implementation("io.insert-koin:koin-android:4.1.1")
     implementation("io.insert-koin:koin-androidx-compose:4.1.1")
     implementation("org.jsoup:jsoup:1.22.1")
+    implementation("io.github.kyant:backdrop:0.3.0")
 
     testImplementation("junit:junit:4.13.2")
 
