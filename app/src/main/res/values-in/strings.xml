@@ -1,5 +1,5 @@
 <resources>
-    
+
     <string name="app_name" translatable="false">APKUpdater</string>
     <string name="tab_apps">Aplikasi</string>
     <string name="tab_search">Cari</string>
@@ -22,6 +22,7 @@
     <string name="install_success">%1$s berhasil dipasang.</string>
     <string name="install_failure">%1$s gagal dipasang.</string>
     <string name="root_install_not_supported">Pemasangan root untuk aplikasi ini tidak didukung.</string>
+
     <!-- Settings -->
     <string name="settings_experimental_installer">Gunakan Pemasang Baru Eksperimental</string>
     <string name="settings_portrait_columns">Kolom Potret</string>
@@ -61,6 +62,7 @@
     <string name="copy_to_clipboard">Salin ke Papan Klip</string>
     <string name="copy_app_list">Salin Daftar Aplikasi</string>
     <string name="copy_app_logs">Salin Catatan Aplikasi</string>
+
     <!-- Notifikasi -->
     <string name="notification_channel_name">Pembaruan</string>
     <string name="notification_channel_description">Saluran untuk pemberitahuan pembaruan aplikasi.</string>
@@ -71,4 +73,5 @@
     <item quantity="one">Ditemukan %1$d pembaruan.</item>
     <item quantity="other">Ditemukan %1$d pembaruan.</item>
     </plurals>
+
 </resources>
